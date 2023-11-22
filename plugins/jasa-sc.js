@@ -1,14 +1,5 @@
 let handler = async (m, { conn, command }) => {
-	conn.reply(m.chat, `*「 RECODED BY ZERENITY 」*
-
-*⭔ Single Auth ( 1 file session )*
-_https://github.com/clicknetcafe/azamibot-md_
-
-*⭔ Multi Auth ( multiple file session )*
-_https://github.com/clicknetcafe/azamibot-md-multi_
-
-*⭔ Azami node_modules*
-_https://cutt.ly/azamibot-md-modules_`, m)
+	conn.reply(m.chat, `*Bayar Owner 1 Juta dulu!*`, m)
 }
 
 handler.command = /^(sc|sourcecode)$/i
