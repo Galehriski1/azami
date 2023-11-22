@@ -4,7 +4,7 @@ import db from '../lib/database.js'
 
 let handler = async (m, { conn, command }) => {
 	let ini_txt = db.data.datas.teksjadibot || `❤‍🩹 *[ Chat Dengan Creator ]*
-wa.me/6282337245566
+wa.me/6285664221805
 
 ╔╣ *PREMIUM USER*
 ║ • Infinity Limit
@@ -29,7 +29,7 @@ wa.me/6282337245566
 
 - Pembayaran via *OVO / Dana / GoPay*
   *( tidak ada opsi lain )*
-  ke nomor 082337245566
+  ke nomor 085664221805
 - Whatsapp Multi Device
 - Run via RDP (Always ON)
 - Request Fitur? *Chat Link Creator di atas.*`
